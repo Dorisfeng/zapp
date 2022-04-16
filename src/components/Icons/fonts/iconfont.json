@@ -1,0 +1,23 @@
+{
+  "id": "1360674",
+  "name": "zapp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "React项目",
+  "glyphs": [
+    {
+      "icon_id": "10273624",
+      "name": "loading",
+      "font_class": "loading",
+      "unicode": "e891",
+      "unicode_decimal": 59537
+    },
+    {
+      "icon_id": "27681219",
+      "name": "react",
+      "font_class": "react",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    }
+  ]
+}
